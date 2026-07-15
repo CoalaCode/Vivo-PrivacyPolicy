@@ -1,4 +1,4 @@
-# Privacy Policy — Vivo - Bodyweight and Running
+# Vivo - Bodyweight and Running — Privacy Policy
 
 **Last updated: July 12, 2026**
 

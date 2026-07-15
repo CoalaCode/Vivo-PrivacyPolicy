@@ -1,4 +1,4 @@
-# Privacy Policy — Vivo
+# Privacy Policy — Vivo - Bodyweight and Running
 
 **Last updated: July 12, 2026**
 
@@ -62,7 +62,7 @@ Lottie makes no network requests and collects no data.
 
 ## Your Control
 
-- **Change language** — iOS Settings → Vivo → Language (the OS relaunches the app to apply the change)
+- **Change language** — iOS Settings → Vivo - Bodyweight and Running → Language (the OS relaunches the app to apply the change)
 - **Delete individual sessions** — from inside the app
 - **Delete all data** — delete and reinstall the app
 
